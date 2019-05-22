@@ -46,3 +46,26 @@ body {
 span{
 	color:#7f7f84;
 }
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotfull{
+	background-color: #252526;
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
+img{
+	padding: 20px 5px 0px 5px;
+}
