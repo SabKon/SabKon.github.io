@@ -1,81 +1,48 @@
-body{
-	background: #d8d8d8;
-	text-align: center;
-	font-family: cambria;
-	font-size: 14px;
+.leftcard{
+	background-color: #ceabbb;
+
+}
+.paddingrem{
+	padding-right: 0;
+	padding-left: 0;
+}
+.cardstyle{
+	border-color: #ffd199;
+	/* height: 400; */
+	background-color: #ffd199
 }
 
-.topdiv{
-	background-color: #6d0887;
-	width:100%;
-	height: 200px;
+.top-buffer { 
+	margin-top:10px; 
 }
 
-.wrapper{
-	width: 1000px;
-	margin: 0 auto;
-	margin-top: -100px;
-	text-align: center;
-}
-	
-.firstbox{
-	display: inline-block;
-	width: 700px;
-	height: 200px;
-	background:white;
-	border-radius: 2px;
-	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+.bgcolor {
+	background-color: #ffd199
 }
 
-.topleft {
-	height:100%;
-	float:left;
-	display: inline-block;
-}
-
-.topmiddle {
-	height:100%;
-	width: 50%;
-	float:left;
-	display: inline-block;
-}
-
-.topright{
-	display: inline-block;
-	height: 100%;
-	width: 20%;
-	color: #845276;
-	background: -moz-linear-gradient(bottom left, white, purple, green);
-	float: right;
-}
-
-img {
-	max-height: 100%;
-}
-table {
-	 text-align: left;
-	 border-spacing: 10px 0.5rem;
-	 height: 99%;
-	 max-width:  99%;
-
+.bgcolor2{
+	background-color: #fce8cc
 }
 
 .font1 {
-	font-size: 22px;
 	font-weight: bold;
-	color: green;
+	font-family: verdana;
+	padding-left: 5px;
+	font-size: 14px;
 }
 
-.font2{
-	margin-top: 40px;
-	margin-bottom: 20px;
-	font-size: 28px;
-	font-weight: bold;
-	color: green;
-	text-shadow: 0 3px 3px rgba(0,0,0,0.16), 0 3px 3px rgba(0,0,0,0.23);
+body {
+	font-family: verdana;
+	font-size: 13px;
 }
 
-.bold{
-	font-weight: bold;
+.col-1-5{
+	width: 2%;
 }
 
+.liststyle{
+	font-weight: bold;
+}
+span{
+	color:#7f7f84;
+}
