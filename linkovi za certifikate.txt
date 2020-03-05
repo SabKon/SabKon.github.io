@@ -1,0 +1,3 @@
+<a href="https://www.sololearn.com/Certificate/1014-13372928/pdf/" class="btn btn-secondary btn-sm">Certificate</a>
+
+<a href="https://www.sololearn.com/Certificate/1023-13372928/pdf/" class="btn btn-secondary btn-sm">Certificate</a>
